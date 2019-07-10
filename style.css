@@ -1,0 +1,51 @@
+body, html{
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+}
+ 
+
+body{
+	font-family: 'Archivo Black', sans-serif;
+
+}
+
+
+hr{
+	max-width: 65px;
+  border-width: 3px;
+  border-color: white;
+}
+
+
+
+
+header.startup {
+	background-position: center;
+	background-image: url(smartwatch.jpg);
+	background-size: cover;
+	height: 100%;
+
+}
+
+
+
+
+header.startup h1{
+	font-size: 2rem;
+
+}
+	
+
+}
+
+
+.btn-info:hover {
+	color: lightblue;
+
+}
+
+
+
+
+
